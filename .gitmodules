@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"] 
+  path = Sprocket 
+  url = https://github.com/TyWest13/TyWest13.github.io
