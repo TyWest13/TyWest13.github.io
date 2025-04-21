@@ -1,14 +1,14 @@
-# `jekyll-theme-tactile`
+# The Tactile theme
 
-Tactile is a Jekyll theme for [GitHub Pages](https://pages.github.com).
+[![Build Status](https://travis-ci.org/pages-themes/jekyll-theme-tactile.svg?branch=master)](https://travis-ci.org/pages-themes/jekyll-theme-tactile) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-tactile.svg)](https://badge.fury.io/rb/jekyll-theme-tactile)
 
-You can preview the theme at http://pages-themes.github.io/tactile.
+*Tactile is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/tactile), or even [use it today](#usage).*
 
-### Usage
+## Usage
 
-This theme was ported from the GitHub Automatic Page Generator to a Jekyll v3.3 theme gem.
+To use the Tactile theme:
 
-To use it on a Pages site, add `theme: jekyll-theme-tactile` to your `_config.yml`.
+1. Add the following to your site's `_config.yml`:
 
 ```yml
 theme: jekyll-theme-tactile
